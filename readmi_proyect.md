@@ -1,5 +1,9 @@
 # Documentación del Proyecto de Árbol Binario para Ventas de Vehículos
 
+## Integrantes: German Anibal Buritica Quimbayo
+
+## Link Ejecucion Proyecto  http://localhost:8000/docs
+
 ## Estructura del Proyecto
 
 ### 1. Modelos (`app/models/`)
